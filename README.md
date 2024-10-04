@@ -1,4 +1,4 @@
-# EGEInfoBotREPLIT
+# exam-info-bot
 My school project: Telegram bot based on python
 For EGE 2023\
 ## Menu:
